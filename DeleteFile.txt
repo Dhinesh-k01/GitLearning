@@ -1,0 +1,8 @@
+We have to delete the unwanted file in our locally created file so we have to follow these steps.
+i) we have to delete the file in our local folder.
+ii) and then we have to check status of the file using "git status"
+iii) after that same 3 steps procedure
+      1) git add sample1.txt
+      2) git commit -m "deleted sample1.txt file"
+      3) git push origin main
+iv) after follwing the above steps we can assure that the file is deleted permenantly.

@@ -1,4 +1,4 @@
-we know to create a new file in local and see the changes in Github., but here we are going to see how to create a file in Github and see those changes in our local directory.
-for that we have to use "git pull" command in our locally created folder terminal to get the what are all the new changes that we made in out Github and we have to get that only.
+we know how to create a new file in our local and see the changes in Github., but here we are going to see how to create a file in Github and see those changes in our local directory.
+=> for that we have to use "git pull" command in our locally created folder terminal to get what are all the new changes that we made in our Github and we have to get that only not the existing file or code or etc...,
 
 we can think that why don't we use "git clone https://" if we are using this means we are again creating a exisiting file along with that, so its a waste of space and time so use "git pull".

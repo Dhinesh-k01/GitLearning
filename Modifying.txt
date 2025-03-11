@@ -1,5 +1,5 @@
 First i created a file without adding text or anything in that file and pushed that file directly into the GitHub and after that i added new text into that Modifying.txt file and again started the usual procedure to reflect the changes in local to github
 
-1st => git add Modifying.txt
-2nd => git commit -m "some messages"
-3rd => git push origin main 
+1st step => git add Modifying.txt
+2nd step => git commit -m "some messages"
+3rd step => git push origin main 

@@ -1,1 +1,1 @@
-learning how to use git
+first step => how to make the changes in the exisitng code
